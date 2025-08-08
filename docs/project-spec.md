@@ -81,7 +81,7 @@ An automated platform that turns meeting recordings or transcripts into structur
 ### Backend:
 - ASP.NET Core Web API
 - Entity Framework Core
-- OpenAI API or Azure AI Services
+- OpenAI API
 
 ### Frontend:
 - React
